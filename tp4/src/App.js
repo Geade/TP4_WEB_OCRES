@@ -11,7 +11,7 @@ const profils = [
     date_naiss : "21 Mai",
     photo_prof : "https://picsum.photos/200",
     couleur : "red",
-    
+    jaime : 0,
   },
   {
     nom: "martine",
@@ -19,6 +19,7 @@ const profils = [
     date_naiss : "23 Mai",
     photo_prof : "https://picsum.photos/200",
     couleur : "blue",
+    jaime : 0,
   },
   {
     nom: "camille",
@@ -26,6 +27,7 @@ const profils = [
     date_naiss : "26 Mai",
     photo_prof : "https://picsum.photos/200",
     couleur : "purple",
+    jaime : 0,
 
   }
 ];
